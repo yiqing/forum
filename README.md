@@ -94,4 +94,4 @@ return [
 
 **NOTE:** `forum.sql` in the root folder, import it into the database, this has to be done manually before you can access it.
 
-Also check and edit the other files in the `config/` directory to customize your application.
+Also check and edit the other files in the `config/` directory to customize your application...
